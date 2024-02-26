@@ -1,2 +1,2 @@
 # shriya1
-this is my first repositaru
+this is my first repositary
